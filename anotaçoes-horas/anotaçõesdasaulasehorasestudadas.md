@@ -1,4 +1,4 @@
-### anotações das aulas e horas estudadas 
+### anotações das aulas e horas estudando
 
 - anotações durante as aulas 
 
@@ -21,14 +21,15 @@
 
   
 
-   sigla <sha> significa secure has algarithm a incriptação gera um conjuto de 40 digitos forma curta de representar um arquivo. 
+
+   sigla <sha> significa secure has algarithm a encriptação gera um conjunto de 40 dígitos forma curta de representar um arquivo. 
   objetos internos do git 
-   blos tress comits SHA1(aulagit.txt)
+   blos tress commts SHA1(aulagit.txt)
                ciclo de vida 
    traked unmodifid  modified staged 
   git commit -m git add * git add
 
-- ### horas estudando 
+- ### horas de estudo
 
 - fiquei em torno de 5h30 estudando 
 
